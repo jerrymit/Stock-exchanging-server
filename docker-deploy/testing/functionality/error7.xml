@@ -1,0 +1,7 @@
+728
+<?xml version="1.0" encoding="UTF-8"?>
+<create>
+  <!--add account-->
+  <accounttt id="1" balance="40"/>
+  <account id="2" balance="304"/>
+</create>
